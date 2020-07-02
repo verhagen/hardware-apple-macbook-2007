@@ -1,4 +1,4 @@
-# Installatie OS-X versie 10.6.8
+# Installatie Mac OS X Snow Leopard Update (versie 10.6.8)
 
 
 

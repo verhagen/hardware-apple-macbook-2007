@@ -14,6 +14,6 @@ Als eerste opent een scherm met _Welcome_
 
 De volgende stappen zijn mij zo 123 niet meer bekend, voor deze versie van OS-X. Je mag me altijd even bellen, om er samen doorheen te lopen. Liefst wel even met een iPhone / iPad, zodat we via FaceTime kunnen bellen, zodat ik even mee kan kijken, hoe de schermen er uit zien. Als FaceTime niet lukt, mag ook via WhatsApp beeld bellen.
 
-## [Installatie OS-X 10.6.8](install-osx-10.6.8.md)
-Nadat het account is aangemaakt, moet je als eerste het besturingssysteem updaten naar de laatste versie. Dit is nog niet gedaan, omdat er daarvoor een account aangeemaakt moest worden. En het idee was een af fabriek MacBook over te dragen. Dus zonder dat er accounts aangemaakt zijn.
-Lees hoe dit gaat onder [Installatie OS-X 10.6.8](install-osx-10.6.8.md).
+## [Installatie Mac OS X Snow Leopard Update](install-osx-10.6.8.md)
+Nadat het account is aangemaakt, moet je als eerste het besturingssysteem updaten naar de laatste versie. Dit is nog niet gedaan, omdat er daarvoor een account aangemaakt moest worden. En het idee was een af fabriek MacBook over te dragen. Dus zonder dat er accounts aangemaakt zijn.
+Lees hoe dit gaat onder [Installatie Mac OS X Snow Leopard Update](install-osx-10.6.8.md).
