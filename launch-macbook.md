@@ -7,10 +7,15 @@ Start de MacBook op en wacht de introductie af. Daarna komt eerst een scherm met
 
 ## Welcome
 Als eerste opent een scherm met _Welcome_
+
+![Finder OS-X Main](images/welcome-choose-language-1.jpeg)
+
 - Gebruik de check box **Show All**
 - Zoek nu **Nederlands** op  
   _Ze staan op alphabetische volgorde_
 - Click op **Continue**
+
+![Finder OS-X Main](images/welcome-choose-language-2.jpeg)
 
 De volgende stappen zijn mij zo 123 niet meer bekend, voor deze versie van OS-X. Je mag me altijd even bellen, om er samen doorheen te lopen. Liefst wel even met een iPhone / iPad, zodat we via FaceTime kunnen bellen, zodat ik even mee kan kijken, hoe de schermen er uit zien. Als FaceTime niet lukt, mag ook via WhatsApp beeld bellen.
 
